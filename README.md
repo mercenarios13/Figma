@@ -24,8 +24,6 @@ Você pode ajudar a **melhorar o Figma** fazendo sugestões de melhoria, enviand
 
 # Figma - Aplicativo de Conhecer Novas Amizades
 
-# Figma - Aplicativo de Conhecer Novas Amizades
-
 Veja abaixo o protótipo do aplicativo:
 
 (https://www.figma.com/proto/HuoddMZR35YDBjxUwEuJos/Untitled?node-id=147-4507&t=bBCXpwMMS3HFi1aI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=147%3A4027)
