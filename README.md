@@ -24,7 +24,9 @@ Você pode ajudar a **melhorar o Figma** fazendo sugestões de melhoria, enviand
 
 # Figma - Aplicativo de Conhecer Novas Amizades
 
-Este projeto é um protótipo desenvolvido no Figma para ajudar as pessoas a fazerem novas amizades. Você pode visualizar o protótipo completo clicando no link abaixo:
+# Figma - Aplicativo de Conhecer Novas Amizades
 
-[Acesse o protótipo no Figma]([https://www.figma.com/file/EXEMPLO/Prot%C3%B3tipo-de-Amizades](https://www.figma.com/proto/HuoddMZR35YDBjxUwEuJos/Untitled?node-id=147-4507&t=bBCXpwMMS3HFi1aI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=147%3A4027))
+Veja abaixo o protótipo do aplicativo:
+
+(https://www.figma.com/proto/HuoddMZR35YDBjxUwEuJos/Untitled?node-id=147-4507&t=bBCXpwMMS3HFi1aI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=147%3A4027)
 
